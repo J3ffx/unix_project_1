@@ -1,0 +1,4 @@
+http://www.allocine.fr/film/agenda/WEEK
+http://www.premiere.fr/Cinema/Films-et-seances/Sorties-Cinema/WEEK
+https://www.telerama.fr/cine/film_datesortie.php?when%5Bdate%5D=WEEK&when_radios=1
+https://www.senscritique.com/films/sorties-cinema/WEEK

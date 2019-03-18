@@ -1,0 +1,95 @@
+Titre : A Star Is Born
+	image : http://fr.web.img6.acsta.net/c_215_290/pictures/18/09/25/14/20/0923171.jpg
+	synopsis : Jackson Maine, musicien chevronné, découvre Ally, une chanteuse qui a du mal à percer. Alors que la jeune femme est sur le point de renoncer à faire carrière, Jackson tombe amoureux d'elle et la propulse sur le devant de la scène. Bientôt éclipsé par le succès d'Ally, il vit de plus en plus de mal son propre déclin…
+	notes : Presse 3,3 Spectateurs 4,5
+
+Titre : Alad'2
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/06/28/13/57/4993195.jpg
+	synopsis : Après avoir libéré Bagdad de l’emprise de son terrible Vizir, Aladin s’ennuie au palais et ne s’est toujours pas décidé à demander en mariage la princesse. Mais un terrible dictateur, Shah Zaman, s’invite au Palais et annonce qu’il est venu prendre la ville et épouser la Princesse.
+	notes : Presse 2,3 Spectateurs 1,1
+
+Titre : Upgrade
+	image : http://fr.web.img5.acsta.net/c_215_290/pictures/18/09/06/15/06/2427423.jpg
+	synopsis : Après la mort de son épouse lors d'une violente agression qui l'a laissé paralysé, Grey Trace est approché par un inventeur milliardaire qui propose de lui administrer un remède expérimental qui va "upgrader" son corps et ses facultés.
+	notes : Presse 3,5 Spectateurs 4,1
+
+Titre : La Saveur des ramen
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/09/07/14/06/1444646.png
+	synopsis : Masato, jeune chef de Ramen au Japon, a toujours rêvé de partir à Singapour pour retrouver le goût des plats que lui cuisinait sa mère quand il était enfant. Alors qu’il entreprend le voyage culinaire d’une vie, il découvre des secrets familiaux profondément enfouis. Trouvera-t-il la recette pour réconcilier les souvenirs du passé ?
+	notes : Presse 3,5 Spectateurs 4,0
+
+Titre : Frères Ennemis
+	image : http://fr.web.img6.acsta.net/c_215_290/pictures/18/07/31/15/14/4078486.jpg
+	synopsis : Manuel et Driss ont grandi comme deux frères inséparables dans la même cité. Mais aujourd’hui tout les oppose. Manuel est à la tête d’un trafic de drogue, alors que Driss est devenu flic. Quand celui-ci est promu aux Stups, son retour bouleverse les équilibres et met Manuel en danger.
+	notes : Presse 3,6 Spectateurs 3,8
+
+Titre : Nos batailles
+	image : http://fr.web.img5.acsta.net/c_215_290/pictures/18/09/05/14/38/1242075.jpg
+	synopsis : Olivier se démène au sein de son entreprise pour combattre les injustices. Mais du jour au lendemain quand Laura, sa femme, quitte le domicile, il lui faut concilier éducation des enfants, vie de famille et activité professionnelle. Face à ses nouvelles responsabilités, il bataille pour trouver un nouvel équilibre, car Laura ne revient pas.
+	notes : Presse 4,1 Spectateurs 3,9
+
+Titre : 16 levers de soleil
+	image : http://fr.web.img5.acsta.net/c_215_290/pictures/18/09/13/10/41/4934279.jpg
+	synopsis : Le 17 novembre 2016, Thomas Pesquet s'envole pour sa première mission spatiale. A 450 kilomètres de la S'envoler pour l'espace. C'est ce rêve que Thomas Pesquet a réalisé en décollant depuis la base de Baïkonour. A 450 kilomètres de la Terre, durant ces six mois où le monde semble basculer dans l’inconnu, un dialogue se tisse entre l'astronaute et l’œuvre visionnaire de Saint Exupéry qu’il a emportée dans la station spatiale.
+	notes : Presse 3,3 Spectateurs 3,7
+
+Titre : Blindspotting
+	image : http://fr.web.img6.acsta.net/c_215_290/pictures/18/09/11/12/06/5634098.png
+	synopsis : Encore trois jours pour que la liberté conditionnelle de Collin prenne fin. En attendant de retrouver une vie normale, il travaille comme déménageur avec Miles, son meilleur ami, dans un Oakland en pleine mutation.Mais lorsque Collin est témoin d’une terrible bavure policière, c’est un véritable électrochoc pour le jeune homme. Il n’aura alors plus d’autres choix que de se remettre en question pour prendre un nouveau départ. 
+	notes : Presse 3,6 Spectateurs 3,9
+
+Titre : La Chasse à l'Ours
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/08/16/17/22/1427472.jpg
+	synopsis : Programme de 3 courts métrages d'animation.  Chaussons nos bottes et partons à l’aventure ! Attraper des ours, parcourir des forêts, traverser des rivières… Même en hiver, tout est possible pour nos petits héros intrépides !
+	notes : Spectateurs 3,3
+
+Titre : Amin
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/09/05/16/02/0893722.jpg
+	synopsis : Amin est venu du Sénégal pour travailler en France, il y a neuf ans. Il a laissé au pays sa femme Aïcha et leurs trois enfants. En France, Amin n’a d’autre vie que son travail, d’autres amis que les hommes qui résident au foyer...
+	notes : Presse 3,7 Spectateurs 3,1
+
+Titre : Le Fanfaron
+	image : http://fr.web.img5.acsta.net/c_215_290/pictures/18/09/24/16/25/5608366.jpg
+	synopsis : Un Méditerranéen très en verve, désinvolte, charmeur et... fanfaron, fait la connaissance d'un étudiant en droit studieux, timide et complexé. Il va lui faire vivre deux jours de randonnées trépidantes de Rome à Viareggio...
+	notes : Spectateurs 4,1
+
+Titre : Nico et Patou
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/09/10/17/16/3325765.png
+	synopsis : Par une belle journée ensoleillée, la vie de Nico, le scarabée, se  retrouve bouleversée par l’arrivée tonitruante de Patou, le hanneton,  qui vient s’écraser sur le toit de sa maison. Voyant d’abord d’un  mauvais œil cet invité surprise, Nico trouvera en Patou un ami fidèle,  plein de gentillesse. C’est le début d’une série d’aventures pour nos  deux petits compères, sous le signe de la solidarité, de la poésie et du burlesque.
+	notes : Presse 3,3 Spectateurs 3,0
+
+Titre : Shut Up And Play The Piano
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/08/20/16/11/2805455.jpg
+	synopsis : Chilly Gonzales est à la fois un compositeur distingué d’un Grammy, un pianiste virtuose et un showman. Navigant entre le rap, l’électro et le piano, il est devenu un artiste performer pop qui s’est invité dans le sérail du monde de la musique classique. 
+	notes : Presse 2,7 Spectateurs 3,1
+
+Titre : Le Cahier noir
+	image : http://fr.web.img6.acsta.net/c_215_290/pictures/18/06/27/10/38/4555543.jpg
+	synopsis : Le récit des aventures, au crépuscule du XVIIIe siècle, d’un couple singulier formé par un petit orphelin aux origines mystérieuses et sa jeune nourrice italienne à la naissance pareillement incertaine. Ils nous entraînent dans leur sillage à travers l'Europe: Rome, Paris, Parme, Venise, Londres...
+	notes : Presse 2,8 Spectateurs 3,3
+
+Titre : En mille morceaux
+	image : http://fr.web.img6.acsta.net/c_215_290/pictures/18/09/07/14/01/4025933.png
+	synopsis : 25 ans après l’assassinat de son fils, Nicole Parmentier donne rendez-vous à Eric Gaubert, l’auteur de ces faits…
+	notes : Presse 2,1 Spectateurs 3,7
+
+Titre : Chris the Swiss
+	image : http://fr.web.img5.acsta.net/c_215_290/pictures/18/07/25/17/10/5937589.jpg
+	synopsis : Croatie, janvier 1992. En plein conflit yougoslave, Chris, jeune journaliste suisse, est retrouvé assassiné dans de mystérieuses circonstances.
+	notes : Presse 3,7 Spectateurs 3,5
+
+Titre : Reinhold Messner - Le Quinzième 8000
+	image : http://fr.web.img3.acsta.net/c_215_290/pictures/18/06/25/15/31/4131089.jpg
+	synopsis : Véritable légende vivante, Reinhold Messner est le premier homme au monde à avoir gravi les quatorze sommets de plus de 8000 mètres présents sur Terre. Le nouveau défi de ce conquérant de l'extrême est à la mesure de ses exploits précédents...
+	notes : Spectateurs 3,1
+
+Titre : Une fois comme jamais
+	image : http://fr.web.img2.acsta.net/c_215_290/pictures/18/08/06/09/40/4490592.jpg
+	synopsis : Mamine, quatre-vingt-seize ans, dépérit en maison de retraite depuis des années. Jusqu’au jour où sa petite fille Julie vient la chercher pour la ramener passer quelques jours chez elle. Accompagnée de sa fille de dix ans, Julie croise sur sa route deux hommes en fuite.
+	notes : Spectateurs 3,1
+
+Titre : Peiraguda - Le concert des 40 ans
+	image : http://fr.web.img3.acsta.net/c_215_290/pictures/18/10/25/12/10/0478129.jpg
+	synopsis : Les 40 ans de Peiraguda" . Concert enregistré en octobre 2017 à Sarlat marquant l'anniversaire de l'un des groupes de musique occitane les plus populaires
+	notes : 
+
